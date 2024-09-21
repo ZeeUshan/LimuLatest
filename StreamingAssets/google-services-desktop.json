@@ -1,0 +1,143 @@
+ {
+  "project_info": {
+    "project_number": "912207571893",
+    "firebase_url": "https://limu-225da-default-rtdb.firebaseio.com",
+    "project_id": "limu-225da",
+    "storage_bucket": "limu-225da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912207571893:android:84b23d3f22aad3b9c547fc",
+        "android_client_info": {
+          "package_name": "com.limulab.Limu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912207571893-ggmj9290dd0tn5eijj3lbs2lo7cfr6rs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.limulab.Limu",
+            "certificate_hash": "dd67fe3052572cf955422660bad704041c72794e"
+          }
+        },
+        {
+          "client_id": "912207571893-ff9lgo3ni5g5shl4ggfinh0s2dhlj0kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoxSKd5aBHzioP-MPaamxUB11hbLNEwSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912207571893-4tmg7cgvleuhr9s0hnj42q3f32omrnq2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "912207571893-l1sm0q99cor9bl2b3kj0fn7hv6iuqscp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.limulab.limu"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912207571893:android:c5478abfb3aebcc5c547fc",
+        "android_client_info": {
+          "package_name": "com.limulab.limu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912207571893-ma64lqnob9mk5rrkffiah1q61ef87u6d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.limulab.limu",
+            "certificate_hash": "dd67fe3052572cf955422660bad704041c72794e"
+          }
+        },
+        {
+          "client_id": "912207571893-ff9lgo3ni5g5shl4ggfinh0s2dhlj0kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoxSKd5aBHzioP-MPaamxUB11hbLNEwSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912207571893-4tmg7cgvleuhr9s0hnj42q3f32omrnq2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "912207571893-l1sm0q99cor9bl2b3kj0fn7hv6iuqscp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.limulab.limu"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912207571893:android:7ac556415f404b62c547fc",
+        "android_client_info": {
+          "package_name": "com.ytcdata.limu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912207571893-1nhqc04oskff9p0jjjjr7jpe2ca3qip9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ytcdata.limu",
+            "certificate_hash": "dd67fe3052572cf955422660bad704041c72794e"
+          }
+        },
+        {
+          "client_id": "912207571893-ff9lgo3ni5g5shl4ggfinh0s2dhlj0kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoxSKd5aBHzioP-MPaamxUB11hbLNEwSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912207571893-4tmg7cgvleuhr9s0hnj42q3f32omrnq2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "912207571893-l1sm0q99cor9bl2b3kj0fn7hv6iuqscp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.limulab.limu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
